@@ -1,0 +1,7 @@
+{
+  "name": "alloyproxy.org",
+  "description": "Easy to deploy Alloy repo.",
+  "repository": "https://github.com/titaniumnetwork-dev/alloyproxy.org",
+  "logo": "https://cdn.simer00.repl.co/content/simer00/simer00/logo.png",
+  "keywords": ["node", "express", "ws"]
+}
